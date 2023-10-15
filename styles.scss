@@ -37,7 +37,10 @@ body, html {
     }
     
   }
-  
+  h1 {
+    color:white;
+    text-align:center;
+  }
 h2{
     color:white;
     text-align:center;
@@ -48,6 +51,7 @@ h2{
     justify-content: center;
     & .main-img{
         align-items: center;
+        filter:drop-shadow(0 0 1.25rem crimson);
     }
 }
 
