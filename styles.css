@@ -179,4 +179,10 @@ Arrows
   opacity: 1;
 }
 
+@media only screen and (max-width: 768px) {
+  img {
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
